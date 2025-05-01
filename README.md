@@ -17,4 +17,16 @@ End-to-end DevOps project featuring a microservice-based web application, contai
 
 ☁️ Cloud deployment on AWS (EC2/EKS)
 
-Ideal for DevOps engineers, cloud enthusiasts, and students who want hands-on experience in production-grade delivery pipelines.
+Ideal for DevOps engineers, cloud enthusiasts, and students who want hands-on experience in production-grade delivery pipelines. 
+
+Branch Name | Purpose
+main | ✅ Production-ready code (only merge here after full review & testing).
+dev | 🔧 Active development branch where features are merged first.
+feature/app-ui | 🚧 Frontend (React/HTML) microservice work.
+feature/app-api | ⚙️ Backend microservice code (Node.js/Flask).
+feature/docker | 🐳 Dockerfiles for all services.
+feature/ci-cd | 🔁 GitHub Actions/Jenkins CI/CD setup.
+feature/infra | ☁️ Terraform for AWS infra setup.
+feature/k8s | 📦 Kubernetes (EKS/Minikube) YAMLs or Helm charts.
+feature/monitoring | 📊 Prometheus + Grafana configs.
+docs | 📝 Diagrams, README, and documentation updates.
