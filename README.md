@@ -1,2 +1,20 @@
 # AutoDeployHub-CICD-Microservices
 End-to-end DevOps project featuring a microservice-based web application, containerized with Docker, deployed via Kubernetes, and managed through a CI/CD pipeline using GitHub Actions and Terraform on AWS. Includes full observability with Prometheus and Grafana.
+
+
+🧾 Extended README Introduction (for top of README.md)
+🚀 AutoDeployHub is a complete DevOps lifecycle project that demonstrates modern CI/CD practices on a microservice architecture. The project includes:
+
+🚧 Infrastructure as Code using Terraform
+
+🐳 Containerization with Docker
+
+🔁 CI/CD pipelines using GitHub Actions
+
+☸️ Kubernetes orchestration with Helm
+
+🔍 Monitoring & alerting with Prometheus and Grafana
+
+☁️ Cloud deployment on AWS (EC2/EKS)
+
+Ideal for DevOps engineers, cloud enthusiasts, and students who want hands-on experience in production-grade delivery pipelines.
